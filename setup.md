@@ -5,6 +5,6 @@
 # and create a Readme file for each of them
 # and create an
 
-for i in {1..25}; do  mkdir -p day${i} && echo "# Day ${i}" > ./day${i}/README.md; done
+for i in {01..25}; do  mkdir -p day-${i} && echo "# Day ${i}" > ./day-${i}/README.md; done
 
 ```
