@@ -6,6 +6,6 @@ Python solutions of [Advent of Code 2021](https://adventofcode.com/2021) written
 
 ## Solutions
 
-| Day | Challenge                                          |           Part 1            |           Part 2            |
-| :-: | :------------------------------------------------- | :-------------------------: | :-------------------------: |
-|  1  | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [part 1](./day-01/part1.py) | [part 2](./day-01/part2.py) |
+| Day | Challenge                                               |          Part 1           |          Part 2           |
+| :-: | :------------------------------------------------------ | :-----------------------: | :-----------------------: |
+|  1  | [Calorie Counting](https://adventofcode.com/2022/day/1) | [Part 1](./day1/part1.py) | [Part 2](./day1/part2.py) |
